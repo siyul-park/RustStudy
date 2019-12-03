@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hello-wasm.iml" filepath="$PROJECT_DIR$/.idea/hello-wasm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello_wasm/.idea/hello-wasm.iml" filepath="$PROJECT_DIR$/../hello_wasm/.idea/hello-wasm.iml" />
     </modules>
   </component>
 </project>
